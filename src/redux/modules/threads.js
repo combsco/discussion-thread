@@ -105,9 +105,6 @@ export default function threadReducer (state = initialState, action) {
           }
         }
       }
-    // case 'DELETE_COMMENT':
-    //   console.log(state.entities.comments[3])
-    //   return Object.assign({}, state, state.entities.comments[3].deleted = true)
     default:
       return state
   }
