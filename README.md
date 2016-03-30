@@ -1,3 +1,7 @@
+[Demo](http://discussion-thread.surge.sh/)
+------------
+This is a work sample detailing a discussion thread. Made with React, Redux, React-Router, ES6 and other components.
+
 Requirements
 ------------
 
